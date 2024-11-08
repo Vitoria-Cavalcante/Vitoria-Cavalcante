@@ -1,24 +1,13 @@
 
-<!--
-**Vitoria-Cavalcante/Vitoria-Cavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ## Olá! Eu sou Vitoria Cavalcante
 
+- 🔭 Hoje trabalho com back-end e análise de dados
+- 🌱 Estou estudando Python e PowerBI
+- 👯 Procurando estágio :D
 
 <div>
 <a ref="https://github.com/Vitoria-Cavalcante">
 <ing height="180cm" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Cavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <ing height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-Cavalcante&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
