@@ -1,10 +1,10 @@
 
 
-## Olá! Eu sou Vitoria Cavalcante
+## Howdy! I'm Vitoria Cavalcante
 
-- 🔭 Desenvolvo principalmente back-end e análise de dados
-- 🌱 Estou estudando Python e PowerBI
-- 👯 Procurando estágio :D
+- 🔭 Work specially with back-end and data analisys
+- 🌱 Now learnig Python e PowerBI
+- 👯 Searching internship :D
 
 <div>
 <a href="https://github.com/Vitoria-Cavalcante">
@@ -13,7 +13,7 @@
 </div>
 
 
-## Até agora tenho conhecimento em:
+## Languages and tools:
 <div style="display: inline_block"><br>
   <img align-"center alt="Vi-Java" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Vi-Csharp" height="30" width="40" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -24,7 +24,7 @@
 </div>
 
 
-## Você pode me encontrar através do:
+## You can find me through:
 
 <div> 
  <a href="https://discord.gg/sadsaturn23" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
