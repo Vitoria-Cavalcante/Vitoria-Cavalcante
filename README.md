@@ -4,7 +4,7 @@
 
 - 🔭 Work specially with back-end and data analisys
 - 🌱 Now learnig Python e PowerBI
-- 👯 Searching internship :D
+- 👯 Searching internship. You can message me anytime: lorencavalcante.23@gmail.com
 
 <div>
 <a href="https://github.com/Vitoria-Cavalcante">
